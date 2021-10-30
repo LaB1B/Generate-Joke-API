@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/go-F-red)[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ![](https://img.shields.io/badge/Version-v1.0.0-orange)
 ![](https://img.shields.io/badge/Branches-1-blue)
+[![made-with-javascript](https://img.shields.io/badge/Server-UP-green.svg)](https://generatejoke.herokuapp.com/api/jokes)
 
 
 
